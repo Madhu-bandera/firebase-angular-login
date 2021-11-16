@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-angular-test-bfaec": {
+      "hosting": {
+        "fire-angular-test": [
+          "fire-angular-test-bfaec"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-angular-test-bfaec"
+  }
+}
